@@ -29,8 +29,6 @@
 
 ## Screenshots / Preview
 
-_(Add your screenshots here)_
-
 ![Menu-Light](./public/preview/menulight.png)
 ![Menu-Dark](./public/preview/menudark.png)
 ![Order status](./public/preview/order.png)
